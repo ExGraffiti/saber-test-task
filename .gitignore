@@ -1,0 +1,50 @@
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэш pytest
+.pytest_cache/
+.mypy_cache/
+
+# Временные файлы
+*.tmp
+*.bak
+*.log
+
+# Файлы окружения
+.env
+.venv/
+venv/
+env/
+
+# Файлы сборки и дистрибуции
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Файлы тестовых данных
+test_data/
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Файлы PyCharm
+.idea/
+*.iml
+
+# Файлы coverage
+.coverage
+htmlcov/

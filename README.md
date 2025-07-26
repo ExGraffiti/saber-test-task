@@ -6,7 +6,7 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/ExGraffiti/saber-task.git
+git clone https://github.com/ExGraffiti/saber-test-task.git
 cd <repository_dir>
 ```
 
